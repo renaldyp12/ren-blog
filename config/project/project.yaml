@@ -1,0 +1,22 @@
+dateModified: 1641187172
+email:
+  fromEmail: renaldypermana7@gmail.com
+  fromName: 'Ren Blog'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1d5644ea-9e20-44a5-ba7f-85f5d174b176: 'Ren Blog' # Ren Blog
+    711da8c6-c68e-4b3e-84d3-a79c9d9d48ae: 'Ren Blog' # Ren Blog
+    b0330451-1c24-4457-bc54-38e6d45c5b11: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Ren Blog'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
